@@ -1,0 +1,14 @@
+header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+header img {
+    height: 50px;
+}
+
+header p {
+    margin: 0;
+    font-size: 1.2rem;
+}

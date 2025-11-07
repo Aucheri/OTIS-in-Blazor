@@ -607,12 +607,6 @@
   .max-w-3\/4 {
     max-width: calc(3/4 * 100%);
   }
-  .min-w-0 {
-    min-width: calc(var(--spacing) * 0);
-  }
-  .flex-1 {
-    flex: 1;
-  }
   .flex-shrink {
     flex-shrink: 1;
   }
